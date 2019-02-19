@@ -1,0 +1,8 @@
+{
+	"connectionStringParams": {
+		"ServerInstanceName": "DESKTOP-24IFPL5\\SQLEXPRESS",
+		"DatabaseName": "IT_Data",
+		"Login": "test",
+		"Password": "test"
+	}
+}
